@@ -6,8 +6,6 @@ import core.utility.Asserts;
 import core.utility.TimeUtils;
 import org.testng.annotations.Test;
 
-
-
 public class SelectingDateAndBrowseTicketsTest extends BaseWeb {
     @Test(description = "Selecting tickets and checking the cost")
     public void selectTicketsAndCheckTheCosTest() {
